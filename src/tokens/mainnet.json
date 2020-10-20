@@ -80,14 +80,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2baEcDf43734F22FD5c152DB08E3C27233F0c7d2/logo.png"
   },
   {
-    "name": "OM Token",
-    "address": "0x2baEcDf43734F22FD5c152DB08E3C27233F0c7d2",
-    "symbol": "OM",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2baEcDf43734F22FD5c152DB08E3C27233F0c7d2/logo.png"
-  },
-  {
     "name": "FTX Token",
     "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
     "symbol": "FTT",
