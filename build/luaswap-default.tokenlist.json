@@ -1,6 +1,6 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2020-10-20T04:32:59.834Z",
+  "timestamp": "2020-10-27T09:35:14.995Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -13,14 +13,6 @@
     "default"
   ],
   "tokens": [
-    {
-      "name": "0xBitcoin Token",
-      "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
-      "symbol": "0xBTC",
-      "decimals": 8,
-      "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
-    },
     {
       "name": "Frontier Token",
       "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
@@ -86,6 +78,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa/logo.png"
     },
     {
+      "name": "Uniswap",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    },
+    {
       "name": "USDCoin",
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "symbol": "USDC",
@@ -100,6 +100,14 @@
       "decimals": 6,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "name": "Wrapped Ether",
