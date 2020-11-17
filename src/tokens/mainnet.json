@@ -102,5 +102,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+  },
+  {
+    "name": "RAMP DEFI",
+    "address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+    "symbol": "RAMP",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f/logo.png"
   }
 ]
