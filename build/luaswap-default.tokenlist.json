@@ -1,6 +1,6 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2020-11-17T07:13:23.811Z",
+  "timestamp": "2020-11-26T02:38:53.850Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -36,6 +36,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093/logo.png"
+    },
+    {
+      "name": "Kambria",
+      "address": "0x14da230d6726C50F759Bc1838717F8CE6373509C",
+      "symbol": "KAT",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/4784/small/kambria.png"
     },
     {
       "name": "LuaToken",

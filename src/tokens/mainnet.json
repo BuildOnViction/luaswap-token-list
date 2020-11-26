@@ -110,5 +110,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f/logo.png"
+  },
+  {
+    "name": "Kambria",
+    "address": "0x14da230d6726C50F759Bc1838717F8CE6373509C",
+    "symbol": "KAT",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://assets.coingecko.com/coins/images/4784/small/kambria.png"
   }
 ]
