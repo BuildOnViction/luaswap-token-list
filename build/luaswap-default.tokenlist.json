@@ -1,6 +1,6 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-01-25T03:31:16.033Z",
+  "timestamp": "2021-01-25T07:44:17.842Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -134,6 +134,22 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
+      "name": "Wrapped BTC",
+      "address": "0xAE44807D8A9CE4B30146437474Ed6fAAAFa1B809",
+      "symbol": "BTC",
+      "decimals": 8,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
       "name": "LuaToken",
       "address": "0x7262fa193e9590b2e075c3c16170f3f2f32f5c74",
       "symbol": "LUA",
@@ -142,7 +158,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png"
     },
     {
-      "name": "Tether USD",
+      "name": "Wrapped Tether USD",
       "address": "0x381B31409e4D220919B2cFF012ED94d70135A59e",
       "symbol": "USDT",
       "decimals": 6,
@@ -150,23 +166,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
-      "name": "Wrapped BTC",
-      "address": "0xAE44807D8A9CE4B30146437474Ed6fAAAFa1B809",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "chainId": 88,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 88,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "name": "TomoChain",
+      "name": "Wrapped TOMO",
       "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
       "symbol": "WTOMO",
       "decimals": 18,
