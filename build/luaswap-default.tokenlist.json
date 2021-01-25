@@ -1,6 +1,6 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-01-25T02:53:07.620Z",
+  "timestamp": "2021-01-25T03:31:16.033Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -142,14 +142,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png"
     },
     {
-      "name": "TomoChain",
-      "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
-      "symbol": "TOMOE",
-      "decimals": 18,
-      "chainId": 88,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa/logo.png"
-    },
-    {
       "name": "Tether USD",
       "address": "0x381B31409e4D220919B2cFF012ED94d70135A59e",
       "symbol": "USDT",
@@ -172,6 +164,14 @@
       "decimals": 18,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "TomoChain",
+      "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+      "symbol": "WTOMO",
+      "decimals": 18,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa/logo.png"
     }
   ]
 }
