@@ -1,5 +1,6 @@
 const { version } = require('../package.json');
 const mainnet = require('./tokens/mainnet.json');
+const tomochain_mainnet = require('./tokens/tomochain_mainnet.json');
 // const ropsten = require('./tokens/ropsten.json');
 // const rinkeby = require('./tokens/rinkeby.json');
 // const goerli = require('./tokens/goerli.json');
@@ -23,6 +24,7 @@ module.exports = function buildList() {
     ],
     tokens: [
       ...mainnet,
+      ...tomochain_mainnet
       // ...ropsten,
       // ...goerli,
       // ...kovan,
