@@ -1,6 +1,6 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-01-25T07:44:17.842Z",
+  "timestamp": "2021-01-25T08:18:56.399Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -151,7 +151,7 @@
     },
     {
       "name": "LuaToken",
-      "address": "0x7262fa193e9590b2e075c3c16170f3f2f32f5c74",
+      "address": "0x7262fa193e9590B2E075c3C16170f3f2f32F5C74",
       "symbol": "LUA",
       "decimals": 18,
       "chainId": 88,
