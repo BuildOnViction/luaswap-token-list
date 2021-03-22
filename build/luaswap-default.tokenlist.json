@@ -1,6 +1,6 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-01-26T07:26:23.257Z",
+  "timestamp": "2021-03-22T03:01:25.273Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -104,6 +104,14 @@
     {
       "name": "USDCoin",
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Wrapped USD Coin",
+      "address": "0xCCA4E6302510d555B654B3EaB9c0fCB223BCFDf0",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 1,

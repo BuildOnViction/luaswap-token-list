@@ -46,5 +46,13 @@
     "decimals": 18,
     "chainId": 88,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x763Fa6806e1acf68130D2D0f0df754C93cC546B2/logo.png"
+  },
+  {
+    "name": "Wrapped USD Coin",
+    "address": "0xCCA4E6302510d555B654B3EaB9c0fCB223BCFDf0",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   }
 ]
