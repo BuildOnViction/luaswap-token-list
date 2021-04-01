@@ -1,9 +1,9 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-03-22T07:18:23.358Z",
+  "timestamp": "2021-04-01T07:50:43.962Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -150,6 +150,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
+      "name": "Wrapped FTX Token",
+      "address": "0x33fa3c0c714638f12339F85dae89c42042a2D9Af",
+      "symbol": "FTT",
+      "decimals": 18,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png"
+    },
+    {
       "name": "Lition",
       "address": "0xf9787E76750c1e731054Cf4Cc97a2e3F490DB360",
       "symbol": "LIT",
@@ -164,6 +172,14 @@
       "decimals": 18,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png"
+    },
+    {
+      "name": "Wrapped Serum",
+      "address": "0xc01643aC912B6a8ffC50CF8c1390934A6142bc91",
+      "symbol": "SRM",
+      "decimals": 6,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
     },
     {
       "name": "Wrapped USD Coin",
