@@ -1,9 +1,9 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-04-01T07:50:43.962Z",
+  "timestamp": "2021-04-02T10:22:51.899Z",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -156,14 +156,6 @@
       "decimals": 18,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png"
-    },
-    {
-      "name": "Lition",
-      "address": "0xf9787E76750c1e731054Cf4Cc97a2e3F490DB360",
-      "symbol": "LIT",
-      "decimals": 18,
-      "chainId": 88,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x763Fa6806e1acf68130D2D0f0df754C93cC546B2/logo.png"
     },
     {
       "name": "LuaToken",
