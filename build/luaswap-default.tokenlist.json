@@ -1,8 +1,8 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-04-27T02:44:06.334Z",
+  "timestamp": "2021-04-27T04:25:08.682Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -180,6 +180,14 @@
       "decimals": 6,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
+    },
+    {
+      "name": "Tomo Finance",
+      "address": "0xB2444519F4653831b097B388D985aB3FdD5D600e",
+      "symbol": "TAI",
+      "decimals": 18,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0xB2444519F4653831b097B388D985aB3FdD5D600e.png"
     },
     {
       "name": "Wrapped USD Coin",

@@ -72,4 +72,13 @@
     "chainId": 88,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9b53E429B0baDd98ef7F01F03702986c516a5715/logo.png"
   }
+  ,
+  {
+    "name": "Tomo Finance",
+    "address": "0xB2444519F4653831b097B388D985aB3FdD5D600e",
+    "symbol": "TAI",
+    "decimals": 18,
+    "chainId": 88,
+    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0xB2444519F4653831b097B388D985aB3FdD5D600e.png"
+  }
 ]
