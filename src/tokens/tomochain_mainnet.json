@@ -63,5 +63,13 @@
     "decimals": 6,
     "chainId": 88,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
+  },
+  {
+    "name": "Hybrix Hydra",
+    "address": "0xA7551BA0d52C763fb6f8866DE63827aA593f20Bc",
+    "symbol": "HY",
+    "decimals": 18,
+    "chainId": 88,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9b53E429B0baDd98ef7F01F03702986c516a5715/logo.png"
   }
 ]

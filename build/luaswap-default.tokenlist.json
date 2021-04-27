@@ -1,8 +1,8 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-04-04T16:32:13.664Z",
+  "timestamp": "2021-04-27T02:44:06.334Z",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -156,6 +156,14 @@
       "decimals": 18,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png"
+    },
+    {
+      "name": "Hybrix Hydra",
+      "address": "0xA7551BA0d52C763fb6f8866DE63827aA593f20Bc",
+      "symbol": "HY",
+      "decimals": 18,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9b53E429B0baDd98ef7F01F03702986c516a5715/logo.png"
     },
     {
       "name": "LuaToken",
