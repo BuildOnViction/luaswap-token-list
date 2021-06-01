@@ -1,6 +1,6 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-04-27T04:25:08.682Z",
+  "timestamp": "2021-06-01T04:03:36.709Z",
   "version": {
     "major": 4,
     "minor": 0,
@@ -172,6 +172,14 @@
       "decimals": 18,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png"
+    },
+    {
+      "name": "PoolGame Token",
+      "address": "0x19395Ff1e1310863E3F273e907b88E4de7bcD3E7",
+      "symbol": "PGT",
+      "decimals": 18,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x19395Ff1e1310863E3F273e907b88E4de7bcD3E7.png"
     },
     {
       "name": "Wrapped Serum",

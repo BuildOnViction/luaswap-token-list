@@ -80,5 +80,13 @@
     "decimals": 18,
     "chainId": 88,
     "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0xB2444519F4653831b097B388D985aB3FdD5D600e.png"
+  },
+  {
+    "name": "PoolGame Token",
+    "address": "0x19395Ff1e1310863E3F273e907b88E4de7bcD3E7",
+    "symbol": "PGT",
+    "decimals": 18,
+    "chainId": 88,
+    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x19395Ff1e1310863E3F273e907b88E4de7bcD3E7.png"
   }
 ]
