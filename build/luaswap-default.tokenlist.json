@@ -1,8 +1,8 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-06-01T04:03:36.709Z",
+  "timestamp": "2021-06-02T10:43:51.360Z",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   },
@@ -134,14 +134,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
-      "name": "Wrapped BTC",
-      "address": "0xAE44807D8A9CE4B30146437474Ed6fAAAFa1B809",
-      "symbol": "BTC",
-      "decimals": 8,
-      "chainId": 88,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
-    },
-    {
       "name": "Wrapped Ether",
       "address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
       "symbol": "ETH",
@@ -174,14 +166,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png"
     },
     {
-      "name": "PoolGame Token",
-      "address": "0x19395Ff1e1310863E3F273e907b88E4de7bcD3E7",
-      "symbol": "PGT",
-      "decimals": 18,
-      "chainId": 88,
-      "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x19395Ff1e1310863E3F273e907b88E4de7bcD3E7.png"
-    },
-    {
       "name": "Wrapped Serum",
       "address": "0xc01643aC912B6a8ffC50CF8c1390934A6142bc91",
       "symbol": "SRM",
@@ -212,6 +196,14 @@
       "decimals": 6,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0xA91895630f2DAfdc4FC5c3e32846108068c67004",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "name": "Wrapped TOMO",
