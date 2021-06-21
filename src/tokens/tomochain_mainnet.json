@@ -9,11 +9,11 @@
   },
   {
     "name": "Wrapped BTC",
-    "address": "0xA91895630f2DAfdc4FC5c3e32846108068c67004",
+    "address": "0x503B2dDc059b81788FD1239561596614b27fAADE",
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 88,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x503B2dDc059b81788FD1239561596614b27fAADE.png"
   },
   {
     "name": "Wrapped Tether USD",
