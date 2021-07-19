@@ -1,6 +1,6 @@
 {
   "name": "luaswap-token-list",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "◦ The LuaSwap default token list",
   "main": "build/luaswap-default.tokenlist.json",
   "scripts": {
