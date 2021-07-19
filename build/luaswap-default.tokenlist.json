@@ -1,6 +1,6 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-07-19T08:14:28.446Z",
+  "timestamp": "2021-07-19T08:17:23.847Z",
   "version": {
     "major": 7,
     "minor": 0,
@@ -166,7 +166,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png"
     },
     {
-      "name": "Tomo Finance",
+      "name": "Million",
       "address": "0x0F320856Fa4Bc7E4030a6ab989D494C5E4d58308",
       "symbol": "MM",
       "decimals": 18,
