@@ -90,4 +90,22 @@
     "chainId": 88,
     "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x0F320856Fa4Bc7E4030a6ab989D494C5E4d58308.png"
   }
+  ,
+  {
+    "name": "TAB BANK",
+    "address": "0x8103Bb77eD2035b5da9A3A65d9c313cb6eE41dbD",
+    "symbol": "TAB",
+    "decimals": 18,
+    "chainId": 88,
+    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x8103Bb77eD2035b5da9A3A65d9c313cb6eE41dbD.png"
+  }
+  ,
+  {
+    "name": "Mega Lottery",
+    "address": "0x5080781e91237b6D7f026D5306b7233e26Cd6C16",
+    "symbol": "MLR",
+    "decimals": 18,
+    "chainId": 88,
+    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x5080781e91237b6D7f026D5306b7233e26Cd6C16.png"
+  }
 ]
