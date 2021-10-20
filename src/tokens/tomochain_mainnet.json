@@ -108,4 +108,13 @@
     "chainId": 88,
     "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x5080781e91237b6D7f026D5306b7233e26Cd6C16.png"
   }
+  ,
+  {
+    "name": "TomoMasterDAO",
+    "address": "0x4EaafA85bDBe9B02930926C594F83e62B036B1be",
+    "symbol": "tDAO",
+    "decimals": 18,
+    "chainId": 88,
+    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x4EaafA85bDBe9B02930926C594F83e62B036B1be.png"
+  }
 ]
