@@ -1,8 +1,8 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-10-20T10:30:38.598Z",
+  "timestamp": "2021-11-06T04:37:12.980Z",
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 0,
     "patch": 0
   },
@@ -180,6 +180,14 @@
       "decimals": 18,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x0F320856Fa4Bc7E4030a6ab989D494C5E4d58308.png"
+    },
+    {
+      "name": "PixelVerse",
+      "address": "0x2E6bCE13C31920B9B83c43B2A8a73C2EDEfb75F7",
+      "symbol": "PIXEL",
+      "decimals": 18,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x2E6bCE13C31920B9B83c43B2A8a73C2EDEfb75F7.png"
     },
     {
       "name": "Wrapped Serum",

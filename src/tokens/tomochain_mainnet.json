@@ -117,4 +117,13 @@
     "chainId": 88,
     "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x4EaafA85bDBe9B02930926C594F83e62B036B1be.png"
   }
+  ,
+  {
+    "name": "PixelVerse",
+    "address": "0x2E6bCE13C31920B9B83c43B2A8a73C2EDEfb75F7",
+    "symbol": "PIXEL",
+    "decimals": 18,
+    "chainId": 88,
+    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x2E6bCE13C31920B9B83c43B2A8a73C2EDEfb75F7.png"
+  }
 ]
