@@ -1,8 +1,8 @@
 {
   "name": "LuaSwap Default List",
-  "timestamp": "2021-11-06T04:37:12.980Z",
+  "timestamp": "2021-12-31T05:05:06.172Z",
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   },
@@ -220,6 +220,14 @@
       "decimals": 18,
       "chainId": 88,
       "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x4EaafA85bDBe9B02930926C594F83e62B036B1be.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xA1Ff8559646a79e47ECDfaCA60272F3081998569",
+      "symbol": "tETH",
+      "decimals": 18,
+      "chainId": 88,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
       "name": "Wrapped USD Coin",

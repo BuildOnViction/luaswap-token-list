@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
+    "name": "Wrapped Ether",
+    "address": "0xA1Ff8559646a79e47ECDfaCA60272F3081998569",
+    "symbol": "tETH",
+    "decimals": 18,
+    "chainId": 88,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
     "name": "Wrapped BTC",
     "address": "0x503B2dDc059b81788FD1239561596614b27fAADE",
     "symbol": "WBTC",
