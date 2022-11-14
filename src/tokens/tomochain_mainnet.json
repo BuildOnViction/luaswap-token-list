@@ -73,65 +73,11 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
   },
   {
-    "name": "Hybrix Hydra",
-    "address": "0xA7551BA0d52C763fb6f8866DE63827aA593f20Bc",
-    "symbol": "HY",
-    "decimals": 18,
-    "chainId": 88,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9b53E429B0baDd98ef7F01F03702986c516a5715/logo.png"
-  }
-  ,
-  {
-    "name": "Tomo Finance",
-    "address": "0xB2444519F4653831b097B388D985aB3FdD5D600e",
-    "symbol": "TAI",
-    "decimals": 18,
-    "chainId": 88,
-    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0xB2444519F4653831b097B388D985aB3FdD5D600e.png"
-  }
-  ,
-  {
-    "name": "Million",
-    "address": "0x0F320856Fa4Bc7E4030a6ab989D494C5E4d58308",
-    "symbol": "MM",
-    "decimals": 18,
-    "chainId": 88,
-    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x0F320856Fa4Bc7E4030a6ab989D494C5E4d58308.png"
-  }
-  ,
-  {
-    "name": "TAB BANK",
-    "address": "0x8103Bb77eD2035b5da9A3A65d9c313cb6eE41dbD",
-    "symbol": "TAB",
-    "decimals": 18,
-    "chainId": 88,
-    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x8103Bb77eD2035b5da9A3A65d9c313cb6eE41dbD.png"
-  }
-  ,
-  {
-    "name": "Mega Lottery",
-    "address": "0x5080781e91237b6D7f026D5306b7233e26Cd6C16",
-    "symbol": "MLR",
-    "decimals": 18,
-    "chainId": 88,
-    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x5080781e91237b6D7f026D5306b7233e26Cd6C16.png"
-  }
-  ,
-  {
     "name": "TomoMasterDAO",
     "address": "0x4EaafA85bDBe9B02930926C594F83e62B036B1be",
     "symbol": "tDAO",
     "decimals": 18,
     "chainId": 88,
     "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x4EaafA85bDBe9B02930926C594F83e62B036B1be.png"
-  }
-  ,
-  {
-    "name": "PixelVerse",
-    "address": "0x2E6bCE13C31920B9B83c43B2A8a73C2EDEfb75F7",
-    "symbol": "PIXEL",
-    "decimals": 18,
-    "chainId": 88,
-    "logoURI": "https://raw.githubusercontent.com/tomochain/luaswap-token-list/master/src/tokens/icons/tomochain/0x2E6bCE13C31920B9B83c43B2A8a73C2EDEfb75F7.png"
   }
 ]
